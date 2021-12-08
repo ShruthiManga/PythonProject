@@ -1,0 +1,6 @@
+n = int(input('Enter any number:'))
+l = [1,2,3,4,5,6,7]
+if n in l:
+    print('Hello',n)
+else:
+    print('user not found')
